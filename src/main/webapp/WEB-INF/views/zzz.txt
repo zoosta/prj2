@@ -1,0 +1,10 @@
+main코딩1  main백업1
+main코딩2  main백업2
+main코딩3  main백업3
+main코딩4  main백업4
+main코딩5  main백업5
+main코딩6  main백업6
+
+bran1코딩1  bran1백업1
+bran1코딩2  bran1백업2
+bran1코딩3  bran1백업3
